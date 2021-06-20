@@ -6,7 +6,7 @@ BigMarket, a company that helps businesses optimize their marketing strategy, ha
 
 ## Results
 
-### Filtered the data
+### Filtering the data
 Before analyzing the data, we filtered down the total vine reviews dataset to contain reviews that met both the following conditions:
 * Reviews which had greater than or equal to 20 total votes
 * Reviews with atleast a 50% ratio of helpful votes to total votes
