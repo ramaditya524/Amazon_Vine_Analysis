@@ -13,6 +13,7 @@ Before analyzing the data, we filtered down the total vine reviews dataset to co
 ![analysis images](paid.PNG)
 
 * There were 40471 unpaid reviews
+
 ![analysis images](unpaid.PNG)
 
 ![analysis images](result1.PNG)
