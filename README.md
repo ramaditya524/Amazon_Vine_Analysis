@@ -1,4 +1,4 @@
-# Amazon_Vine_Analysis :video_game:	:joystick: :rage1:	
+# Amazon_Vine_Analysis :video_game:	:joystick:
 
 ## Overview
 
